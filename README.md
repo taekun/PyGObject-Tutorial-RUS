@@ -1,9 +1,9 @@
-The PyGObject Tutorial
+The PyGObject Tutorial RUS
 ======================
 
 An introduction to GTK+ 3 and Python.
 
-http://live.gnome.org/PyGObject
+Original http://live.gnome.org/PyGObject
 
 Dependencies
 ------------
